@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.footer-container {
+  background-color: hsl(213, 27%, 84%);
+  text-align: center;
+  padding: 25px;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  .footer-container {
+    background-color: hsl(213, 27%, 84%);
+    text-align: center;
+    padding: 25px;
+    margin-top: 6px;
+  }
+}

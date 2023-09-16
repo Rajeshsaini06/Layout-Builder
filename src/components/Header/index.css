@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.header-container {
+  background-color: hsl(213, 27%, 84%);
+  text-align: center;
+  padding: 25px;
+  margin-bottom: 15px;
+}
+
+.ad {
+  border: 2px solid #475569;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .footer-container {
+    background-color: hsl(213, 27%, 84%);
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 6px;
+  }
+}
